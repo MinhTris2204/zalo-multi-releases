@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.0/Zalo.Multi_1.0.0_x64-setup.nsis.zip",
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.1/Zalo%20Multi_1.0.1_x64-setup.nsis.zip",
                                              "signature":  ""
                                          }
                   },
-    "pub_date":  "2026-11-10T09:31:18Z",
-    "version":  "1.0.0",
-    "notes":  "PhiÃªn báº£n Ä‘áº§u tiÃªn"
+    "pub_date":  "2026-11-10T10:14:50Z",
+    "version":  "1.0.1",
+    "notes":  "Cập nhật logo sắc nét chuẩn Zalo 4K/Retina"
 }
