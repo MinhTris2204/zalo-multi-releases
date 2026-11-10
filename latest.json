@@ -1,11 +1,11 @@
 {
+    "version":  "1.0.2",
+    "notes":  "Cap nhat thiet ke logo rieng Zalo Multi",
+    "pub_date":  "2026-11-10T10:40:00Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.2/Zalo.Multi_1.0.2_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN05MNlBwZU9kUk5mcWFPNGFIekFsWVROaXpTSmNyTDBMd1E2dzR2K0tWaEMrN3JRejFuN3ZKUFBJZE52S2UzRWtFc0tQM3NPQzEyY1ZGRStMYzFlZlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjgxNzA3CWZpbGU6WmFsbyBNdWx0aV8xLjAuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjIKWnZYT0VOYWF0VzJTSmhtMkRJZlBPNHNORThmQmhxSlpycVRqN0N1bHJJNkk2bkJlZng4WEljM056MFFsUjhNc0RLWEVBZjNkcVRQWlZYOFlGeDdCRGc9PQo="
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.2/Zalo.Multi_1.0.2_x64-setup.nsis.zip",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0EycFg3YXdRVDhNR01aNng1QkY2UFhkdWdJUHNSd2RPM056bGxVVVJqdHFuYUR4UE9VaU5sR1NYQ0xkL1MyWkxvOTFzTVF0ZzJXcEZUQTRGVlNYM0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjgxOTI5CWZpbGU6WmFsbyBNdWx0aV8xLjAuMl94NjQtc2V0dXAubnNpcy56aXAKVUJmY0orSmp6WlFwVWo4WUFmeWQxUzhFWW5RSm9zN0pUM1pOY2dtVm5IL0l2SmZBTjhXajhqU0FYL2o1TjJSTEd5eGgyNzA2b2MybU8xaUxjTTJ2QXc9PQo="
                                          }
-                  },
-    "pub_date":  "2026-11-10T10:35:12Z",
-    "version":  "1.0.2",
-    "notes":  "Cập nhật thiết kế logo nhận diện riêng biệt cho Zalo Multi (không trùng lặp với Zalo gốc)"
+                  }
 }
