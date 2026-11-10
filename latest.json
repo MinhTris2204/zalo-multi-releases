@@ -1,8 +1,8 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.2/Zalo.Multi_1.0.2_x64-setup.nsis.zip",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN09LUE1xSWo0QkZhYW0vS1U5amxVZ2V1UUthNW56ekxMTmZYMjQ0ZGNZTFZMbVJNYU1TNGtDcGlTQTZCbEVKTE1hZngwWjBaYjNWRXNSZWRDY24wOHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjgyMTg2CWZpbGU6WmFsbyBNdWx0aV8xLjAuMl94NjQtc2V0dXAubnNpcy56aXAKazB4T0dFUWxobmhNRnNmVjZTMnNoYTVXaFludkxtVm9uUlBYN0wxaVNOY0o0SGRFZ1BVNGZBUmNac09XM0RkRnV1UW9MbTZhRkU3ei9oOXgyUkdkRGc9PQo="
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.2/Zalo.Multi_1.0.2_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0xsanNGNlhnVC9uQzZ1TzNMYjUzR1FpZmNSUXdscW1Zb0ZBcTNIUTZBYlJFblhuNEpDa3ZKTFprRHQ3UUZkYUR1ZDFuRExVbjNMRjk1VDhCZUx5SkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjgyNTU4CWZpbGU6WmFsbyBNdWx0aV8xLjAuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjIKS0pFMmFCVTVVeUpadTd1NzdreG9MbHpJcG50OHQ0QjhraXZjMU1hM205bzVJQ1BaamhibnJscFJUanlGVXBybzU4ZXBLUFNrVUNsSkRhK3F6RVhjQUE9PQo="
                                          }
                   },
     "pub_date":  "2026-11-10T10:40:00Z",
