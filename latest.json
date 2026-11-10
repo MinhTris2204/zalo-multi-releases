@@ -1,0 +1,11 @@
+{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.0/Zalo.Multi_1.0.0_x64-setup.nsis.zip",
+                                             "signature":  ""
+                                         }
+                  },
+    "pub_date":  "2026-11-10T09:31:18Z",
+    "version":  "1.0.0",
+    "notes":  "PhiÃªn báº£n Ä‘áº§u tiÃªn"
+}
