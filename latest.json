@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.1/Zalo.Multi_1.0.1_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN05jWENPWUtuOElnRHNQWmEzc2ZIL3FSZll3UEZXSVFxQ2xaeFg1M3lkMzJuY0tIbWNQOGpUVE9ZRUZ3Y3lyMVpNOXF1OHc2UE9vU0hWWHdFcjJMZmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjgwOTIxCWZpbGU6WmFsbyBNdWx0aV8xLjAuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjEKTGFsSlBnc3BkMjcvVUtIRjB2ZWR5eGh4dDcxV25pdm1rSFg5M0ptUVdXeFQwb3FPbHhYWnBjYmQzQURLbWtNNjNkZmZyQlpNZ0Q5aDRDMGhVR0tiQkE9PQo="
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.2/Zalo.Multi_1.0.2_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN05MNlBwZU9kUk5mcWFPNGFIekFsWVROaXpTSmNyTDBMd1E2dzR2K0tWaEMrN3JRejFuN3ZKUFBJZE52S2UzRWtFc0tQM3NPQzEyY1ZGRStMYzFlZlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjgxNzA3CWZpbGU6WmFsbyBNdWx0aV8xLjAuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjIKWnZYT0VOYWF0VzJTSmhtMkRJZlBPNHNORThmQmhxSlpycVRqN0N1bHJJNkk2bkJlZng4WEljM056MFFsUjhNc0RLWEVBZjNkcVRQWlZYOFlGeDdCRGc9PQo="
                                          }
                   },
-    "pub_date":  "2026-11-10T10:25:29Z",
-    "version":  "1.0.1",
-    "notes":  "Cập nhật logo sắc nét chuẩn Zalo 4K/Retina"
+    "pub_date":  "2026-11-10T10:35:12Z",
+    "version":  "1.0.2",
+    "notes":  "Cập nhật thiết kế logo nhận diện riêng biệt cho Zalo Multi (không trùng lặp với Zalo gốc)"
 }
