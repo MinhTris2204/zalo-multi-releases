@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.3/Zalo.Multi_1.0.3_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN09PTXVNQmE0czZIbFJkYXM0d01zQXA1L2NreTl2YWM3TUpYN3ZFQ3Z5OStQM3RWengvK1ZqTE9IZDkxOWQ3SUVjNCtiSUFMTDhzOFhKR2VrNThiWlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTcxMzA5CWZpbGU6WmFsbyBNdWx0aV8xLjAuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjMKRUFiZXkwQllCaUFtT05ybDU4ZDhZMEZRcmU3TFZsTGdWYzhRWjlwSlUzbUcrcHdhRGVLV3U2TUNwK1NuZE5RcDdOVXlUZnQyWFloaG1acGtxOU4wREE9PQo="
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.4/Zalo.Multi_1.0.4_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0N6dkt1S0FCWFd6N01Wd2tuY0pkUVBydWIyc296QlpjSS8yVDhXMkJMdjc5QzB6bGFlYVM2NmxobEFLNDZaSy9FTXI2dGpESFRGTUdwQzJFZEZkMVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTc0MzI4CWZpbGU6WmFsbyBNdWx0aV8xLjAuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjQKbHRsNllTVTlwaGFZN2E2SjhkS0drLzdCdkV4K3R0eWIra0VjcDg5RUxhYitTbnZjNzFIZ0tVQUswNlQ2ODFoZCtBRmZlaGdaMXN2WWVmNUNHbTcwRFE9PQo="
                                          }
                   },
-    "pub_date":  "2026-11-18T10:08:34Z",
-    "version":  "1.0.3",
-    "notes":  "Sửa lỗi mở liên kết, tự động mở bằng Google Chrome"
+    "pub_date":  "2026-11-18T10:58:54Z",
+    "version":  "1.0.4",
+    "notes":  "Toi uu co che tu dong mo lien ket ngoai sang Google Chrome"
 }
