@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.8/Zalo.Multi_1.0.8_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0VJMU1hblFtZFdCdmdtVlVteldpWWlLSHV2THNaYmNrUUk5eDdKd2RxUnRRWDdGbm91RUZRT2NESWxTRjJhUDFsNS84b0ljMUlTNEN1VFdDNE8zOXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTkwOTI4CWZpbGU6WmFsbyBNdWx0aV8xLjAuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjgKcmwvQ3NnNFVqR0gyVGRHS3hWSlQ2THlwZVd3bzljcFNwRFNianhNbmtRSDZEeFViNjQxNnE4ZytOSEgvbFozUnJFL09FdnRyVEdMV3prZ0ZJQ0F0QVE9PQo="
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.9/Zalo.Multi_1.0.9_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN01FMklNQ2NJKzFGUkdiT2JkcXM4ZjMza0ZER0FTNmx4L292WUpPcjdEVS9TdVhMQjgzWmVLUUxwL0VOdCtPbVI1Y0JwK280c3psZ1dOdklOVXlPM0FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTkxNzE3CWZpbGU6WmFsbyBNdWx0aV8xLjAuOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjkKdFk1ZHpqWnpiaG5SN2lYRDJIZmViTTkxYTZHL2ZhdEI3WjhJUFAxaTZWNG02TWRSMWRhZ2d2M1hLY2toYzE2bEJHZkNCWXlHeHUzQVRkQ1RDZmJYQWc9PQo="
                                          }
                   },
-    "pub_date":  "2026-11-18T15:35:32Z",
-    "version":  "1.0.8",
-    "notes":  "Sua loi ket noi thong bao Windows Toast, them nut Thu thong bao trong Cai dat, va tu dong quet tin nhan chua doc"
+    "pub_date":  "2026-11-18T15:48:42Z",
+    "version":  "1.0.9",
+    "notes":  "Them am thanh chuong thong bao (Audio Chime) khi co tin nhan moi va kich hoat am thanh thong bao Windows Toast"
 }
