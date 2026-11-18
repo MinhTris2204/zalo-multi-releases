@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.7/Zalo.Multi_1.0.7_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0hLTXBaTGlWOXp0blpxTWhsNlU5MFUrSHdsZEsvTHNDN3J2aUpHM0F0L3hCczYxU3h6d3dNZ0dRMHZGTEhGOVRySlJBOCs4RC9aQ1VhWU14OHRCOFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTgwNzIzCWZpbGU6WmFsbyBNdWx0aV8xLjAuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjcKU2xaTUJQVnpySTNsQ3oxY0c1aGlNbi9YVC9vUFJaZWxjbENiamtYMUZDK2Rud2JubGhJWWZtemFYUFZXZnlIK2IzanUreXk0MkdNWWJ1Ry9yZEJyQ0E9PQo="
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.8/Zalo.Multi_1.0.8_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0VJMU1hblFtZFdCdmdtVlVteldpWWlLSHV2THNaYmNrUUk5eDdKd2RxUnRRWDdGbm91RUZRT2NESWxTRjJhUDFsNS84b0ljMUlTNEN1VFdDNE8zOXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTkwOTI4CWZpbGU6WmFsbyBNdWx0aV8xLjAuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjgKcmwvQ3NnNFVqR0gyVGRHS3hWSlQ2THlwZVd3bzljcFNwRFNianhNbmtRSDZEeFViNjQxNnE4ZytOSEgvbFozUnJFL09FdnRyVEdMV3prZ0ZJQ0F0QVE9PQo="
                                          }
                   },
-    "pub_date":  "2026-11-18T12:45:28Z",
-    "version":  "1.0.7",
-    "notes":  "Them tinh nang thong bao Windows Action Center, nhap nhay taskbar khi co tin nhan moi, va huy hieu tin nhan chua doc tren sidebar"
+    "pub_date":  "2026-11-18T15:35:32Z",
+    "version":  "1.0.8",
+    "notes":  "Sua loi ket noi thong bao Windows Toast, them nut Thu thong bao trong Cai dat, va tu dong quet tin nhan chua doc"
 }
