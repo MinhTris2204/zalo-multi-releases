@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.4/Zalo.Multi_1.0.4_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0N6dkt1S0FCWFd6N01Wd2tuY0pkUVBydWIyc296QlpjSS8yVDhXMkJMdjc5QzB6bGFlYVM2NmxobEFLNDZaSy9FTXI2dGpESFRGTUdwQzJFZEZkMVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTc0MzI4CWZpbGU6WmFsbyBNdWx0aV8xLjAuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjQKbHRsNllTVTlwaGFZN2E2SjhkS0drLzdCdkV4K3R0eWIra0VjcDg5RUxhYitTbnZjNzFIZ0tVQUswNlQ2ODFoZCtBRmZlaGdaMXN2WWVmNUNHbTcwRFE9PQo="
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.0.5/Zalo.Multi_1.0.5_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0hWYkpybURoYk5HelJFMnJSSEh5VnJoUE1HVVV0U2xIell2N1BUd3lkSVppNUM5RUovYlFrNzJjK2JqUUFaZ1RUYUNQRy91NzIwTE9Vd1dYZnY5dXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTc1MjU4CWZpbGU6WmFsbyBNdWx0aV8xLjAuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4wLjUKM2ZROEZiOGVwWE1KV0VQU3JBQUJEb3JGTVh5NGJkRkNGY3pqanJvOUlzUVkyVVVJSS8zR0VTTkZnTENCTFJhVjV1VE8yZkx0WG1MT0U2dWFVTkJnQXc9PQo="
                                          }
                   },
-    "pub_date":  "2026-11-18T10:58:54Z",
-    "version":  "1.0.4",
-    "notes":  "Toi uu co che tu dong mo lien ket ngoai sang Google Chrome"
+    "pub_date":  "2026-11-18T11:14:22Z",
+    "version":  "1.0.5",
+    "notes":  "Toi uu hoan toan co che bat link Zalo sang Google Chrome qua document.title va subframe"
 }
