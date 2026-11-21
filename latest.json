@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.1.1/Zalo.Multi_1.1.1_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0ROdTdBeTEvS29rSlNVOHh0Ukd0eFBQa0lsWk1aMDBiZCtmNFEzcXJIRFNpRDZTako3VHV3MXNpT045dUpaWGpZRGp0U1Q1UU5CbFB3SmprN3hDTWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjU0ODc4CWZpbGU6WmFsbyBNdWx0aV8xLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjEKOGx3UlB0MGhmWEw3c2g1ZHZNRFhWaloyQ3J4OHFUL1JWMzAvRkhwemU3dUNnQkNoWlEyb3hqZ3l2VERERk1MZkNOSmlLV2xvUXdDdytyUnhZRFoyQUE9PQo="
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.1.2/Zalo.Multi_1.1.2_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0M3Mm5FWEIyZE9oRk0vVW1hVzRINTUxTS8xZngwbC8zQXZyYXd0eHFZalZPV2tuTWNqaG0wUldJQWRwZnVCZlhNQkJBWkRNM01xTGI0L3JUYmVyNlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjYyNzM4CWZpbGU6WmFsbyBNdWx0aV8xLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjIKeDBYQ1o1R242cGJHZFZ2N055bkptOGhqS1RPb1VKekt4bjJqeTc2cHhVbVFvVXRSOTVNa2lMeU01ZkNtb1hjZ0Qva2hSYUNZWng2b0pqeDRlYkQxQmc9PQo="
                                          }
                   },
-    "pub_date":  "2026-11-21T16:54:43Z",
-    "version":  "1.1.1",
-    "notes":  "Ho tro che do dang nhap Zalo PC bang ma QR doc lap (zpw_type=30 native)"
+    "pub_date":  "2026-11-21T19:05:43Z",
+    "version":  "1.1.2",
+    "notes":  "Sua loi modal QR Zalo PC va cac hop thoai bi che khuat boi WebView2"
 }
