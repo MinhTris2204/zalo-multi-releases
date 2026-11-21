@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.1.0/Zalo.Multi_1.1.0_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN045R01UcmNZMG53V0g4REJHNytteDVueHNlWCtmY0J3THc1ckpBelZqdHJCK1IzUDFuNFRHQ1J3Q3NRTlpGWFB0NzRaU2dFcG4wbE92RmF0cjZKdkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjUxNjI3CWZpbGU6WmFsbyBNdWx0aV8xLjEuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjAKR3dEeUdCWEQ3clh2ejB1YngyaEsyd3NhLzI4VndERXBQWFN2VXE2M0dRWHF2cmN1YVczMURaL2tLOTZHbTZIU3lBTmNWc3lYaHV0dUFVSkxaQlByRFE9PQo="
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.1.1/Zalo.Multi_1.1.1_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0ROdTdBeTEvS29rSlNVOHh0Ukd0eFBQa0lsWk1aMDBiZCtmNFEzcXJIRFNpRDZTako3VHV3MXNpT045dUpaWGpZRGp0U1Q1UU5CbFB3SmprN3hDTWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjU0ODc4CWZpbGU6WmFsbyBNdWx0aV8xLjEuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjEKOGx3UlB0MGhmWEw3c2g1ZHZNRFhWaloyQ3J4OHFUL1JWMzAvRkhwemU3dUNnQkNoWlEyb3hqZ3l2VERERk1MZkNOSmlLV2xvUXdDdytyUnhZRFoyQUE9PQo="
                                          }
                   },
-    "pub_date":  "2026-11-21T16:00:33Z",
-    "version":  "1.1.0",
-    "notes":  "Sua loi dang nhap QR tu mo sang trinh duyet Chrome (ho tro mien jr.zaloapp.com)"
+    "pub_date":  "2026-11-21T16:54:43Z",
+    "version":  "1.1.1",
+    "notes":  "Ho tro che do dang nhap Zalo PC bang ma QR doc lap (zpw_type=30 native)"
 }
