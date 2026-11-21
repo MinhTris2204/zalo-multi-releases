@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.1.2/Zalo.Multi_1.1.2_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0M3Mm5FWEIyZE9oRk0vVW1hVzRINTUxTS8xZngwbC8zQXZyYXd0eHFZalZPV2tuTWNqaG0wUldJQWRwZnVCZlhNQkJBWkRNM01xTGI0L3JUYmVyNlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjYyNzM4CWZpbGU6WmFsbyBNdWx0aV8xLjEuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjIKeDBYQ1o1R242cGJHZFZ2N055bkptOGhqS1RPb1VKekt4bjJqeTc2cHhVbVFvVXRSOTVNa2lMeU01ZkNtb1hjZ0Qva2hSYUNZWng2b0pqeDRlYkQxQmc9PQo="
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.1.3/Zalo.Multi_1.1.3_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN01pM21xdFVEYmtDdkxOYVcxR3U4bjdIZ0txaXY0ekNsR2dLOUw2WXpVanFaMFFHTVBSTUdDMWI4Qjd1OVpzVHV2cE5RcEtTV0JYVDhoQXFMMmxEV3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjYzOTgwCWZpbGU6WmFsbyBNdWx0aV8xLjEuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjMKNjBIaGVIa1lLUk53ZUp2WEhkdEFUUlUveWI2ZU1hWWt1Wi9ITUU2bHpvQmw4Um5zZUdHSVplb3VkbnBEQkVxSGhBYlFpMEdwWXJFbnVvU0xSZ2dyQUE9PQo="
                                          }
                   },
-    "pub_date":  "2026-11-21T19:05:43Z",
-    "version":  "1.1.2",
-    "notes":  "Sua loi modal QR Zalo PC va cac hop thoai bi che khuat boi WebView2"
+    "pub_date":  "2026-11-21T19:26:26Z",
+    "version":  "1.1.3",
+    "notes":  "An banner quang cao Zalo PC, toi uu trai nghiem Zalo PC"
 }
