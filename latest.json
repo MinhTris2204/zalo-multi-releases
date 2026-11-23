@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.1.5/Zalo.Multi_1.1.5_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0ZtQ2g4ZTZSVndXWHRWT1Q3QXBla1NqNHZNbitLOTRRMWhGVUdOdW1PRVR6RDVYcXVhTllKekNkUWxOVCt3ckhRRTNxM2VSUEZOQkxOVXdJVEI1ekE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI2MjY2CWZpbGU6WmFsbyBNdWx0aV8xLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjUKUEZBOGNnak1rLzI3U0tYQjRXTlZVL0g2QytMNk5xOGh6VFNwR3A2bWtxcTVTYUdaT25MSW5mV3VEai90c0E3NWZrRm81QkNlS0tBaXpKREtDbFk0QXc9PQo="
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.1.6/Zalo.Multi_1.1.6_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0VvcU5qVGxlR2hhN1ViS1pKN01pNnVNV2QvRFRKaVQ2cnFOdWNTY0YxOW12YSt5YndmY3NnL01HZWtqa3NpblhlMmdBMENuSjJTU3BOUUl0cFY0cmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI3MTI4CWZpbGU6WmFsbyBNdWx0aV8xLjEuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjYKcDJ0QWNNd3JzR29naTZXekRVbmRFVVB0Mlk2cjFZTkhDT3d0MWtUblpjRFJyNEh1Y21lNDR2K1loM3R1VENLKzNkUUJLYm0vUjE2ZEwxMG0xcTdJQUE9PQo="
                                          }
                   },
-    "pub_date":  "2026-11-23T16:31:10Z",
-    "version":  "1.1.5",
-    "notes":  "Sua loi Doi thiet bi sau khi quet QR Zalo PC bang native CookieManager va dong bo IMEI"
+    "pub_date":  "2026-11-23T16:45:33Z",
+    "version":  "1.1.6",
+    "notes":  "Sua loi domain cookie WebView2 (..zalo.me) va loi xoa nham div#app gay man hinh trang"
 }
