@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.1.7/Zalo.Multi_1.1.7_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN051WEhoMTBuT1hXc2YwQmFHWEVOaHc5VWg0Qk5lSWE1OEdjVVhlTDJZRTNHWVg3SFlIbjhRcmRvOTRaaDkzTzkwaDkyQk1UbEJUMWE2MW9xanhqdFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI4NzU5CWZpbGU6WmFsbyBNdWx0aV8xLjEuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjcKZGVBSy81OHUzY3dlMU9iRkRLdUc3a0UvdDQwZ1JZL3d6dkpndE5YU1p0UFdPbmNQeTVwRnZrRXQxRnJsak9TTHJXUndzQk0vN0IvZ2k3amkrUzBnQWc9PQo="
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.1.8/Zalo.Multi_1.1.8_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0djNmlXSmJSWVNMMTNONG1LcXRzb0gwS0RGL0puQW9XNDJvUU8waWFuQTJoOFFRNm4yTUlJM0cwVXE0STJrSi9pNHZKeVJ1bUxpN1JoaXpVcldtbUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDM4OTE1CWZpbGU6WmFsbyBNdWx0aV8xLjEuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjgKTUdvNUdvOE1PL25hS3d5YjNNbXd1bUJoRzI0blMrYTMyK0FGUVY4OVhZMW5ad2hTanRUbTRaTi94RG5yalp5SEFDd2ZtWm1MNExlbTBMU0lqSkl2Q0E9PQo="
                                          }
                   },
-    "pub_date":  "2026-11-23T17:12:44Z",
-    "version":  "1.1.7",
-    "notes":  "Chuyen giao thuc Zalo PC sang WIN_CLIENT_TYPE=24 (ver 697) va hook webpackJsonp NDmK/fBUP"
+    "pub_date":  "2026-11-23T20:02:00Z",
+    "version":  "1.1.8",
+    "notes":  "Go bo tinh nang Zalo PC, giu lai Zalo Web nguyen ban gon nhe"
 }
