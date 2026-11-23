@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.1.4/Zalo.Multi_1.1.4_x64-setup.exe",
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0VUQmcza3RkYkRJY2F3SG5FZGUyK29oNVVZcHdsV3pnKzdqZlRGYTkvZE9aTDFBdGYrazRDQ0RBSDVYOVZ1QjZnUzh5eE1iR1M0dkhQdHFaQzAxV0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI0NjAxCWZpbGU6WmFsbyBNdWx0aV8xLjEuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjQKQXpiNTFidlRhVHhkUUJCTnR4UUgyWGRDOGYwVTZrWHF5SHpBMUN4Z0JaNFFrL3AwNkJGUVZZSUdEcnRFRjE0d29wN0QveEtNayt4RkM1ait5YXYwQUE9PQo="
+                                             "url":  "https://github.com/MinhTris2204/zalo-multi-releases/releases/download/v1.1.5/Zalo.Multi_1.1.5_x64-setup.exe",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY0w0SVdWOXhjN0ZtQ2g4ZTZSVndXWHRWT1Q3QXBla1NqNHZNbitLOTRRMWhGVUdOdW1PRVR6RDVYcXVhTllKekNkUWxOVCt3ckhRRTNxM2VSUEZOQkxOVXdJVEI1ekE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDI2MjY2CWZpbGU6WmFsbyBNdWx0aV8xLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4xLjUKUEZBOGNnak1rLzI3U0tYQjRXTlZVL0g2QytMNk5xOGh6VFNwR3A2bWtxcTVTYUdaT25MSW5mV3VEai90c0E3NWZrRm81QkNlS0tBaXpKREtDbFk0QXc9PQo="
                                          }
                   },
-    "pub_date":  "2026-11-23T16:03:26Z",
-    "version":  "1.1.4",
-    "notes":  "Sua loi bao Da quet QR som do Duplicate polling"
+    "pub_date":  "2026-11-23T16:31:10Z",
+    "version":  "1.1.5",
+    "notes":  "Sua loi Doi thiet bi sau khi quet QR Zalo PC bang native CookieManager va dong bo IMEI"
 }
